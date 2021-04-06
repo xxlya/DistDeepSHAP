@@ -74,7 +74,7 @@ torchvision==0.8.2
 tornado==6.1
 traitlets==4.3.3
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==1.26.4
 wcwidth==0.2.5
 webencodings==0.5.1
 zipp==3.4.0
