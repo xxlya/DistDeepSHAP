@@ -6,7 +6,7 @@ Babel==2.9.0
 backcall==0.2.0
 bleach==3.2.3
 captum==0.3.1
-certifi==2020.12.5
+certifi==2022.12.7
 cffi==1.14.4
 chardet==4.0.0
 contextvars==2.4
